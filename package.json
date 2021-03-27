@@ -1,0 +1,52 @@
+{
+  "name": "pandemic_simulator",
+  "version": "1.0.0",
+  "description": "A simulation of covid-19 cases based on various parameters",
+  "main": "index.js",
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.5",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "bootstrap": "^4.5.3",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.0",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Projects-ACM/Pandemic_Simulator.git"
+  },
+  "keywords": [
+    "data",
+    "analytics",
+    "web",
+    "development"
+  ],
+  "author": "ACM Projects",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Projects-ACM/Pandemic_Simulator/issues"
+  },
+  "homepage": "https://github.com/Projects-ACM/Pandemic_Simulator#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
